@@ -6,4 +6,7 @@ main {
 
 .animals img {
     width: 30vw;
+    border-radius: 20%;
+    padding: 10px;
+    cursor: pointer;
 }
