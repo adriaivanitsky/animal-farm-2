@@ -2,6 +2,8 @@ main {
     display: flex;
     justify-content: center;
     flex-direction: column;
+
+
 }
 
 .animals img {
@@ -9,4 +11,17 @@ main {
     border-radius: 20%;
     padding: 10px;
     cursor: pointer;
+
+
+}
+
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    font-size: 300%;
+
+}
+
+main {
+    background: linear-gradient(to bottom, #ffcccc 0%, #00ffff 100%);
 }
